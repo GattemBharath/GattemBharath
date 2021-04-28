@@ -1,3 +1,6 @@
+﻿<img align="right" src="https://github.com/MalikBagwala/MalikBagwala/blob/master/hero.jpg" alt="Illustration of Dev Bharath at work" width=370px height=auto/>
+
+
 ### Hello, I'm Bharath 👋
 
 <!--
