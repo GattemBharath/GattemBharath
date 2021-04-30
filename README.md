@@ -1,4 +1,4 @@
-﻿<img align="right" src="https://github.com/GattemBharath/GattemBharath/blob/main/me.jpg" alt="Illustration of Dev Bharath at work" width=370px height=370px/>
+﻿<img align="right" src="https://github.com/GattemBharath/GattemBharath/blob/main/me.jpg" alt="Illustration of Dev Bharath at work" width=300px height=260px/>
 
 
 
