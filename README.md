@@ -2,14 +2,12 @@
 
 
 
-### Hello, I'm Bharath 👋
+ ### Hello, I'm Bharath 👋
 
-   [![LinkedLn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gattem-bharath-3b3489180/)
+ [![LinkedLn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gattem-bharath-3b3489180/)
 
 <!--
 **GattemBharath/GattemBharath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-
 
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning Web Development
