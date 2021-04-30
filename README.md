@@ -11,9 +11,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on full stack projects
+-  ⚡ Fun fact: I love cricket
 <!--- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I love cricket
--->
+
+
